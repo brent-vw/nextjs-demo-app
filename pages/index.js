@@ -12,7 +12,9 @@ export default function Home() {
       <main>
         <h1 className={styles.title}>
           Welcome to{" "}
-          <a href="https://nextjs.org">My multicloud CI/CD application!</a>
+          <a href="https://aws.amazon.com/hybrid-multicloud/" target="_blank">
+            My multicloud CI/CD application!
+          </a>
         </h1>
 
         <p className={styles.description}>
